@@ -1,0 +1,4 @@
+interface:
+  display_name: "第二世界摄影二创"
+  short_description: "让照片中的水波、布料、光影与纸面自然相通的摄影二创技能"
+  default_prompt: "请使用 $second-world-photo，观察我提供的照片，让最有辨识度的结构自然延伸到纸面，用彩色跨界材料、极简黑白人物和一句简短英文手写旁白，制作一张清爽、有趣的第二世界海报。"
